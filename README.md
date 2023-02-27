@@ -1,2 +1,2 @@
-# mitigatingGenderBias
-Code for the project 'Exploring and Mitigating Gender Bias in Book Recommender Systems with Explicit Feedback'
+# genderBias
+Contains code for the paper 'Exploring and Mitigating Gender Bias in Recommender Systemswith Explicit Feedback'
